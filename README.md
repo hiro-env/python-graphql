@@ -40,3 +40,6 @@ query {
 
 ## Warning
 - 実際のサーバーでは debug=False にして、middleware でCORSの設定をして起動する
+
+参考記事
+- [Notion](https://pinto-waltz-911.notion.site/Ariadne-122f3d9811d94bfd832c1e6dc88acc01#15c290b6126c4bfab0af9ce7db6ebb3c) ...変なテンションで書いたので語尾がおかしいです
