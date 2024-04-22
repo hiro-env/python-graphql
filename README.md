@@ -4,7 +4,8 @@
 3. Playgroundが立ち上がっているため、下記のクエリを実行できる
 
 ### 成功するクエリ
-```query {
+```
+query {
   authenticateUser(request: {
     email: "user@example.com",
     password: "password"
