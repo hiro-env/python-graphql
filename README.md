@@ -1,5 +1,5 @@
 ## GraphQL参考記事
-- [Notion](https://pinto-waltz-911.notion.site/Ariadne-cffe278fbbe7456c87648799b9656c44)
+- [Notion](https://pinto-waltz-911.notion.site/GraphQL-cffe278fbbe7456c87648799b9656c44)
 
 ## 立ち上げ方
 1. ```docker-compose up```
